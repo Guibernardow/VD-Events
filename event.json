@@ -1,7 +1,7 @@
 {
     "eventoAtivo": true,
-    "nomeDoEvento": "Chuva",
+    "nomeDoEvento": "None",
     "parametros": {
-        "intensidade": 5
+        "intensidade": 0
     }
 }
