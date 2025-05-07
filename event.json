@@ -2,6 +2,6 @@
     "eventoAtivo": true,
     "nomeDoEvento": "2XCoins",
     "parametros": {
-        "intensidade": 100
+        "intensidade": 2
     }
 }
